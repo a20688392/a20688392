@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:badges-->
+[![Red Hat Certified System Administrator (RHCSA)](https://images.credly.com/size/110x110/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png)](http://www.credly.com/badges/d81db07b-fa1c-46ef-8756-9fb70da78ad1 "Red Hat Certified System Administrator (RHCSA)")
 <!--END_SECTION:badges-->
 
 # Skill trees
