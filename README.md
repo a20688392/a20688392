@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+  
+</div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 # Skill trees
 
 [<img align="right" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=a20688392&layout=compact&theme=transparent&hide=Perl,Other">](https://wakatime.com/@a20688392)
