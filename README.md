@@ -2,9 +2,6 @@
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
-  
-</div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 # Skill trees
 
